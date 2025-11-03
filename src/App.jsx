@@ -9,55 +9,55 @@ const App = () => {
         {
             name: 'Honda Activa',
             price: '₹74,536',
-            image: '/balaji-honda-website/asset/honda-scooter-003-activa.png',
+            image: '/asset/honda-scooter-003-activa.png',
             features: ['110cc Engine', 'LED Headlamp', '18L Storage']
         },
         {
             name: 'Honda Dio',
             price: '₹72,664',
-            image: '/balaji-honda-website/asset/honda-scooter-001-dio125.png',
+            image: '/asset/honda-scooter-001-dio125.png',
             features: ['110cc Engine', 'Sporty Design', 'LED DRL']
         },
         {
             name: 'Honda SP 125',
             price: '₹86,017',
-            image: '/balaji-honda-website/asset/honda-bike-005-SP-125.png',
+            image: '/asset/honda-bike-005-SP-125.png',
             features: ['125cc Engine', 'Disc Brake', 'Digital Console']
         },
         {
             name: 'Honda Shine',
             price: '₹79,800',
-            image: '/balaji-honda-website/asset/honda-bike-006-Shine125.png',
+            image: '/asset/honda-bike-006-Shine125.png',
             features: ['125cc Engine', 'Comfort Riding', 'Stylish Look']
         },
         {
             name: 'Honda Unicorn',
             price: '₹1,03,500',
-            image: '/balaji-honda-website/asset/honda-bike-004-unicorn.png',
+            image: '/asset/honda-bike-004-unicorn.png',
             features: ['160cc Engine', 'Premium Bike', 'Advanced Features']
         },
         {
             name: 'Honda Hornet',
             price: '₹1,40,000',
-            image: '/balaji-honda-website/asset/honda-bike-002-Hornet2-0.png',
+            image: '/asset/honda-bike-002-Hornet2-0.png',
             features: ['184cc Engine', 'Sporty Design', 'LED Lights']
         },
         {
             name: 'Honda SP160',
             price: '₹1,40,000',
-            image: '/balaji-honda-website/asset/honda-bike-003-SP-160.png',
+            image: '/asset/honda-bike-003-SP-160.png',
             features: ['184cc Engine', 'Sporty Design', 'LED Lights']
         },
         {
             name: 'Honda NX200',
             price: '₹1,40,000',
-            image: '/balaji-honda-website/asset/Pearl_Nightstar_Black.png',
+            image: '/asset/Pearl_Nightstar_Black.png',
             features: ['184cc Engine', 'Sporty Design', 'LED Lights']
         },
         {
             name: 'Honda CB200X',
             price: '₹1,40,000',
-            image: '/balaji-honda-website/asset/honda-bike-001-CB200X.png',
+            image: '/asset/honda-bike-001-CB200X.png',
             features: ['184cc Engine', 'Sporty Design', 'LED Lights']
         }
     ];
@@ -185,7 +185,7 @@ const App = () => {
                         </div>
                         <div className="hidden md:block">
                             <img
-                                src="/balaji-honda-website/asset/honda-scooter-002-activa125-BS-VI.png"
+                                src="/asset/honda-scooter-002-activa125-BS-VI.png"
                                 alt="Honda Bike"
                                 className="rounded-lg shadow-2xl"
                             />
@@ -370,7 +370,7 @@ const App = () => {
                         </div>
                         <div>
                             <img
-                                src="/balaji-honda-website/asset/Home.png?w=600&h=400&fit=crop"
+                                src="/asset/Home.png?w=600&h=400&fit=crop"
                                 alt="Showroom"
                                 className="rounded-lg shadow-xl"
                             />
@@ -507,7 +507,7 @@ const App = () => {
                             </div>
                             <div>
                                 <img
-                                    src="/balaji-honda-website/asset/Service.png?w=600&h=400&fit=crop"
+                                    src="/asset/Service.png?w=600&h=400&fit=crop"
                                     alt="Service Center"
                                     className="rounded-lg shadow-xl"
                                 />
